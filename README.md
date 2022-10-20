@@ -1,7 +1,7 @@
 ### Hi Devs 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar-kushwaha-177415132/)](https://www.linkedin.com/in/abhishek-kumar-kushwaha-177415132//)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-kumar-kushwaha-177415132/)](https://www.linkedin.com/in/abhishek-kumar-kushwaha-177415132/)
 
 
 
