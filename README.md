@@ -5,10 +5,13 @@
 
 
 
-I'm
-Front-End mobile app developer i.e. React Native dev. 
-I've worked over several projects based over react native and is always eager to learn and find the new ways of code implementation. 
-I have a high intrest in becoming a full-stack dev.
+👋 Hi there! I'm a passionate React Native developer with approximately 2 years of experience in crafting mobile applications that bring ideas to life.
+
+📱 My expertise lies in React Native, where I excel at building cross-platform apps that deliver top-notch user experiences.
+
+💻 But I'm not stopping there! My ambition is to become a full-stack developer. I'm on a journey to broaden my skills, diving into both front-end and back-end technologies. I believe that a versatile skill set will enable me to take on more challenging projects and contribute to various facets of software development.
+
+🚀 Excited to be part of the GitHub community, where I can collaborate, learn, and contribute to open-source projects. Let's connect and code together!
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Abhishek/count.svg)
